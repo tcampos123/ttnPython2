@@ -25,11 +25,11 @@ Comments
 
 Data to be inserted in the python code of the ttn network application:
 
-#Application EUI
+line 9 #Application EUI
 
-#Application ID
+line 10 #Application ID
 
-#ACCESS KEYS
+line 11 #ACCESS KEYS
 
 ttn_client.connect ->configure for server you are using
 
